@@ -12,7 +12,7 @@
 @import url("https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata/public-icon.css"); /* Metadata icons by Druidblack */
 @import url("https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/fonts/materialSymbolsRounded.css");
 @import url("https://cdn.jsdelivr.net/gh/FLSouk-Med/randomtheme7849@main/loginpage.css");
-@import url("https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/colors/jellyblue.css");
+@import url("https://cdn.jsdelivr.net/gh/FLSouk-Med/randomtheme7849@main/jellyblue.css");
 
 /* ~~~~~~~~~~~~~~~~~~~~ GLOBAL CSS VARIABLES ~~~~~~~~~~~~~~~~~~~~ */
 /* Defines core variables used throughout the theme for consistency. */
@@ -21,7 +21,6 @@
     --theme-name: 'Jellyfish';
     --rounded-cards: 15px; /* Standard border-radius */
     --blur: 15px;           /* Default blur intensity */
-	--logo: url("https://cdn.jsdelivr.net/gh/FLSouk-Med/randomtheme7849@main/gigi.png") !important;
 }
 
 /* ~~~~~~~~~~~~~~~~~~~~ GLOBAL FONT ~~~~~~~~~~~~~~~~~~~~ */
