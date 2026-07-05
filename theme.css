@@ -21,6 +21,7 @@
     --theme-name: 'Jellyfish';
     --rounded-cards: 15px; /* Standard border-radius */
     --blur: 15px;           /* Default blur intensity */
+	--logo: url("https://cdn.jsdelivr.net/gh/FLSouk-Med/randomtheme7849@main/gigi.png") !important;
 }
 
 /* ~~~~~~~~~~~~~~~~~~~~ GLOBAL FONT ~~~~~~~~~~~~~~~~~~~~ */
