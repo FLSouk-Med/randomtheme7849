@@ -349,13 +349,13 @@ progress::-webkit-progress-value  /* Filled part of the progress bar (WebKit) */
 /* Desktop logo dimensions and positioning. */
 .layout-tv .pageTitleWithLogo, .layout-desktop .pageTitleWithLogo {
     margin-left: 25px !important;
-    height: 60px !important;
-    width: 140px !important;
+    height: 115px !important;
+    width: 100px !important;
 }
 /* Mobile logo dimensions and positioning. */
 .layout-mobile .pageTitleWithLogo {
-    height: 30px !important;
-    width: 100px !important;
+    height: 81px !important;
+    width: 70px !important;
     margin: 0 1em 0 .5em !important;
     padding: 10px !important;
 }
